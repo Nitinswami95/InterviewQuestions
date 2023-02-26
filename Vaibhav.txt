@@ -12,3 +12,12 @@
 10) How map function works ? Explain with example.
 11) What is comprehension ?
 12) What is monkey-patching ?
+13) What is pickling and unpickling ?
+
+# Django Questions
+
+1) What is serialization ?
+2) What is MVT ?
+3) What is WSGI and ASGI?
+4) Give me file structure of django project ?
+5) Use of apps in django.
