@@ -1,0 +1,14 @@
+# Interview Questions
+
+1) Difference between list and tuple
+2) Difference between dictionary and list
+3) What is Generator? Where do you use this in your project ?
+4) How to create abstraction class?
+5) What is closure?
+6) What is decorator? Write a decorator which takes string input and modified it in reverse string.
+7) Do you know about the time or datetime modules ?
+8) How memory managed in Python ?
+9) What is lambda?
+10) How map function works ? Explain with example.
+11) What is comprehension ?
+12) What is monkey-patching ?
